@@ -1,4 +1,4 @@
-# Review papers on outlier detection
+# Review papers on Outlier/Anomaly detection
 
 
 ## High Dimensional Data
