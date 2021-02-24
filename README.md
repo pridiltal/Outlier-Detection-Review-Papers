@@ -11,3 +11,7 @@
 
 - [Blázquez-García, A., Conde, A., Mori, U., & Lozano, J. A. (2020). **A review on outlier/anomaly detection in time series data**. arXiv preprint arXiv:2002.04236.](https://arxiv.org/abs/2002.04236)
 - [Souiden, I., Brahmi, Z., & Toumi, H. (2016, December). **A survey on outlier detection in the context of stream mining: review of existing approaches and recommadations**. In International Conference on Intelligent Systems Design and Applications (pp. 372-383). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-319-53480-0_37)
+
+## Wireless Sensor Networks
+
+- [Safaei, M., Asadi, S., Driss, M., Boulila, W., Alsaeedi, A., Chizari, H., ... & Safaei, M. (2020). **A systematic literature review on outlier detection in wireless sensor networks**. Symmetry, 12(3), 328.](https://www.mdpi.com/2073-8994/12/3/328)
