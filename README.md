@@ -9,4 +9,4 @@
 
 ## Temporal Data
 
--[Blázquez-García, A., Conde, A., Mori, U., & Lozano, J. A. (2020). **A review on outlier/anomaly detection in time series data**. arXiv preprint arXiv:2002.04236.](https://arxiv.org/abs/2002.04236)
+- [Blázquez-García, A., Conde, A., Mori, U., & Lozano, J. A. (2020). **A review on outlier/anomaly detection in time series data**. arXiv preprint arXiv:2002.04236.](https://arxiv.org/abs/2002.04236)
