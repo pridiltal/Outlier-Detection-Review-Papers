@@ -1,1 +1,2 @@
-# Review papers on outlier detcetion
+# Review papers on outlier detection
+
